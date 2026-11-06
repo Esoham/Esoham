@@ -4,6 +4,10 @@
 
 AI Generalist is not a single job description. Some roles focus on **reviewing model responses against rubrics**, others on **building and testing AI workflows**, and others on **helping teams apply AI to business processes**. This page maps my public project evidence to those different responsibilities without claiming production deployments or training experience that has not been demonstrated.
 
+## Short work sample for AI evaluation roles
+
+[**Read the annotated AI evaluation exercise**](AI_EVALUATION_WORK_SAMPLE.md) — three fictional tasks, a weighted scoring rubric, candidate-response labels, and accept/block reasoning. This is an independently written portfolio sample, **not** a paid model-rating benchmark.
+
 ## 1. Building and testing AI-assisted workflows
 
 **Project:** [ChangeGuard MFG](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-)
