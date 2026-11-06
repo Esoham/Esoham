@@ -6,6 +6,8 @@ I build practical technology that helps people **work through exceptions, test s
 
 **Portfolio:** [Explore interactive projects](https://esoham.github.io/) · **GitHub:** [View repositories](https://github.com/Esoham)
 
+**Hiring for AI Generalist or AI Evaluation?** [See my AI Generalist evidence map](AI_GENERALIST_EVIDENCE.md) — projects, test methodology, and links to reproducible examples.
+
 ## Start here — featured work
 
 | Project | What it demonstrates | Explore |
