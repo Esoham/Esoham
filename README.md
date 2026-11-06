@@ -4,7 +4,7 @@
 
 I build practical technology that helps people **work through exceptions, test systems, and make better decisions**. My background spans ERP/inventory operations, software QA, and hands-on projects in voice AI, AI-assisted manufacturing workflows, data quality, and security monitoring.
 
-**Portfolio:** [Explore interactive projects](https://esoham.github.io/) · **GitHub:** [View repositories](https://github.com/Esoham)
+**Portfolio:** [Explore interactive projects](https://esoham.github.io/) · **Resume:** [View or print](https://esoham.github.io/resume.html) · **Contact:** [Email](mailto:Esoham@yahoo.com)
 
 **Hiring for AI Generalist or AI Evaluation?** [AI Generalist evidence map](AI_GENERALIST_EVIDENCE.md) · [Annotated AI evaluation work sample](AI_EVALUATION_WORK_SAMPLE.md) — project evidence, test methodology, and a realistic illustrative grading exercise.
 
