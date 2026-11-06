@@ -35,7 +35,8 @@ I build practical technology that helps people **work through exceptions, test s
 
 ## More work
 
-- [Healthcare Management System Automation](https://github.com/Esoham/Healthcare-Management-System-automation) — QA framework for healthcare workflows.
+- [Meridian ERP — in development](https://github.com/Esoham/Meridian-ERP) — local FastAPI/SQLite manufacturing inventory-to-production prototype with synthetic data, stock-ledger controls, and tests; **not production-ready**.
+- [Healthcare Management System Automation](https://github.com/Esoham/Healthcare-Management-System-automation) — proposed healthcare QA test plan, not yet a runnable framework.
 - [Portfolio site source](https://github.com/Esoham/Esoham.github.io) — static case studies and interactive demos.
 
 ---
