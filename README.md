@@ -1,6 +1,6 @@
 # Esoham Abalo
 
-**Applied AI • Software Quality • Business Systems & Automation**
+**Software Quality Engineering • Applied AI • Business Systems & Automation**
 
 I build practical technology that helps people **work through exceptions, test systems, and make better decisions**. My background spans ERP/inventory operations, software QA, and hands-on projects in voice AI, AI-assisted manufacturing workflows, data quality, and security monitoring.
 
@@ -12,6 +12,8 @@ I build practical technology that helps people **work through exceptions, test s
 
 | Project | What it demonstrates | Explore |
 | --- | --- | --- |
+| **CommerceQA / FarmFresh QA Automation** | Playwright and Selenium UI automation, Flask/FastAPI testing, pytest regression suites, test reports, GitHub Actions, and a deterministic AI-response grading lab | [Test code and evidence](https://github.com/Esoham/QA-Automation-Project) · [Agile QA strategy](https://github.com/Esoham/QA-Automation-Project/blob/master/docs/FARMFRESH_SPRINT_AND_TEST_STRATEGY.md) |
+| **Meridian ERP** | Purchasing-to-production manufacturing workflow with inventory and quality controls, traceable transactions, and automated tests; local portfolio prototype | [Code, scope and tests](https://github.com/Esoham/Meridian-ERP) |
 | **ChangeGuard MFG** | Agentic, evidence-based review of engineering changes across BOM, inventory, purchasing, production, and quality; human approval stays in the loop | [Code and evaluation](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-) · [5-minute walkthrough](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-/blob/main/docs/JUDGE_WALKTHROUGH.md) |
 | **Vanessa Voice AI** | React/Node.js voice-agent prototype with Vapi integration, call workflow, and lead-qualification logic | [Code and screenshots](https://github.com/Esoham/vanessa-voice-ai) |
 | **SentinelWatch** | Defensive SOC investigation: authentication-event triage, identity-control findings, testable Python reporting | [Code](https://github.com/Esoham/SentinelWatch-SOC-Lab) · [Interactive demo](https://esoham.github.io/projects/sentinelwatch-console.html) |
@@ -30,12 +32,11 @@ I build practical technology that helps people **work through exceptions, test s
 
 **Programming & data:** Python, JavaScript, SQL, C#, SQLite  
 **Applications & AI:** React, Node.js, Express, LLM/voice-AI integrations, tool-based workflows  
-**Quality engineering:** Selenium, API testing, regression testing, automated checks, GitHub Actions  
+**Quality engineering:** Playwright, Selenium WebDriver, pytest, UI/API testing, regression, test strategy, GitHub Actions, offline AI-output evaluation  
 **Operations & security:** ERP/inventory workflows, exception reconciliation, audit trails, defensive SOC lab exercises
 
 ## More work
 
-- [Meridian ERP — in development](https://github.com/Esoham/Meridian-ERP) — local FastAPI/SQLite manufacturing inventory-to-production prototype with synthetic data, stock-ledger controls, and tests; **not production-ready**.
 - [Healthcare Management System Automation](https://github.com/Esoham/Healthcare-Management-System-automation) — proposed healthcare QA test plan, not yet a runnable framework.
 - [Portfolio site source](https://github.com/Esoham/Esoham.github.io) — static case studies and interactive demos.
 
@@ -43,4 +44,4 @@ I build practical technology that helps people **work through exceptions, test s
 
 **Project transparency:** Unless otherwise specified, these are **independent portfolio prototypes or labs**, not production customer deployments. Data is fictional/synthetic when indicated; tests, demos, and known limitations are described in each repository.
 
-**Best next click:** If you have two minutes, start with [ChangeGuard MFG](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-) or [Vanessa Voice AI](https://github.com/Esoham/vanessa-voice-ai).
+**Best next click:** For QA roles, start with [CommerceQA / FarmFresh](https://github.com/Esoham/QA-Automation-Project). For ERP and operations roles, see [Meridian ERP](https://github.com/Esoham/Meridian-ERP). For AI roles, start with [ChangeGuard MFG](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-).
