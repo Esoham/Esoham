@@ -8,6 +8,19 @@ I build practical technology that helps people **work through exceptions, test s
 
 **Hiring for AI Generalist or AI Evaluation?** [AI Generalist evidence map](AI_GENERALIST_EVIDENCE.md) · [Annotated AI evaluation work sample](AI_EVALUATION_WORK_SAMPLE.md) — project evidence, test methodology, and a realistic illustrative grading exercise.
 
+
+## Software QA / QA Analyst — recruiter quick review
+
+**Start here:** [QA portfolio walkthrough](https://esoham.github.io/qa.html) · [CommerceQA test suite](https://github.com/Esoham/QA-Automation-Project) · [Hacker News Playwright validator](https://github.com/Esoham/qa_wolf_take_home)
+
+| Evidence | What a reviewer can inspect |
+| --- | --- |
+| **CommerceQA / FarmFresh** | Playwright Chromium browser workflows; Selenium WebDriver/POM comparison; pytest API, functional, negative, boundary, and regression checks; Agile sprint/acceptance criteria and defect log; GitHub Actions test reporting |
+| **Hacker News Sorting Validator** | Playwright pagination and 100-article ordering checks; deterministic unit tests, mocked browser scenarios, duplicate/missing-data failures and CI |
+| **AI-response QA** | Synthetic golden cases, grounding/unsupported-claim checks, adversarial examples and a local evaluator (not live-model accuracy claims) |
+
+**Work background:** Current Infor ERP transaction/data validation at Low Temp Industries; prior software QA testing at Pitney Bowes; 2021 Careerist QA internship (historical resume also names Novelsity; host relationship and exact dates remain to be verified). Professional work is distinct from independent portfolio labs.
+
 ## Start here — featured work
 
 | Project | What it demonstrates | Explore |
