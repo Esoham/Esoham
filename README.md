@@ -1,38 +1,38 @@
 # Esoham Abalo
 
-**Software Quality Engineering • Applied AI • Business Systems & Automation**
+**Software Quality Assurance • ERP & Business Systems • AI Output Evaluation**
 
-I build practical technology that helps people **work through exceptions, test systems, and make better decisions**. My background spans ERP/inventory operations, software QA, and hands-on projects in voice AI, AI-assisted manufacturing workflows, data quality, and security monitoring.
+I bring together **software QA experience at Pitney Bowes** and current **Infor ERP/inventory operations at Low Temp Industries**. I investigate discrepancies, test system behavior, and build documented, independent prototypes for manufacturing workflows, browser/API QA, and AI-output evaluation. I'm especially interested in QA Analyst, ERP/Business Systems Analyst, and project/product operations opportunities.
 
 **Portfolio:** [Explore interactive projects](https://esoham.github.io/) · **Resume:** [View or print](https://esoham.github.io/resume.html) · **Contact:** [Email](mailto:Esoham@yahoo.com)
 
 **Hiring for AI Generalist or AI Evaluation?** [AI Generalist evidence map](AI_GENERALIST_EVIDENCE.md) · [Annotated AI evaluation work sample](AI_EVALUATION_WORK_SAMPLE.md) — project evidence, test methodology, and a realistic illustrative grading exercise.
 
 
-## Software QA / QA Analyst — recruiter quick review
+## Three projects to review first
 
-**Start here:** [QA portfolio walkthrough](https://esoham.github.io/qa.html) · [CommerceQA test suite](https://github.com/Esoham/QA-Automation-Project) · [Hacker News Playwright validator](https://github.com/Esoham/qa_wolf_take_home)
-
-| Evidence | What a reviewer can inspect |
-| --- | --- |
-| **CommerceQA / FarmFresh** | Playwright Chromium browser workflows; Selenium WebDriver/POM comparison; pytest API, functional, negative, boundary, and regression checks; Agile sprint/acceptance criteria and defect log; GitHub Actions test reporting |
-| **Hacker News Sorting Validator** | Playwright pagination and 100-article ordering checks; deterministic unit tests, mocked browser scenarios, duplicate/missing-data failures and CI |
-| **AI-response QA** | Synthetic golden cases, grounding/unsupported-claim checks, adversarial examples and a local evaluator (not live-model accuracy claims) |
-
-**Work background:** Current Infor ERP transaction/data validation at Low Temp Industries; prior software QA testing at Pitney Bowes; 2021 Careerist QA internship (historical resume also names Novelsity; host relationship and exact dates remain to be verified). Professional work is distinct from independent portfolio labs.
-
-## Start here — featured work
-
-| Project | What it demonstrates | Explore |
+| Project | Evidence you can inspect | Direct review |
 | --- | --- | --- |
-| **CommerceQA / FarmFresh QA Automation** | Playwright and Selenium UI automation, Flask/FastAPI testing, pytest regression suites, test reports, GitHub Actions, and a deterministic AI-response grading lab | [Test code and evidence](https://github.com/Esoham/QA-Automation-Project) · [Agile QA strategy](https://github.com/Esoham/QA-Automation-Project/blob/master/docs/FARMFRESH_SPRINT_AND_TEST_STRATEGY.md) |
-| **Meridian ERP** | Purchasing-to-production manufacturing workflow with inventory and quality controls, traceable transactions, and automated tests; local portfolio prototype | [Code, scope and tests](https://github.com/Esoham/Meridian-ERP) |
-| **ChangeGuard MFG** | Agentic, evidence-based review of engineering changes across BOM, inventory, purchasing, production, and quality; human approval stays in the loop | [Code and evaluation](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-) · [5-minute walkthrough](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-/blob/main/docs/JUDGE_WALKTHROUGH.md) |
-| **Vanessa Voice AI** | React/Node.js voice-agent prototype with Vapi integration, call workflow, and lead-qualification logic | [Code and screenshots](https://github.com/Esoham/vanessa-voice-ai) |
-| **SentinelWatch** | Defensive SOC investigation: authentication-event triage, identity-control findings, testable Python reporting | [Code](https://github.com/Esoham/SentinelWatch-SOC-Lab) · [Interactive demo](https://esoham.github.io/projects/sentinelwatch-console.html) |
-| **MerchantFlow** | Fulfillment exception monitoring, risk prioritization, product requirements, and QA documentation | [Product repository](https://github.com/Esoham/merchantflow) · [Try demo](https://esoham.github.io/projects/merchantflow/) |
-| **VerityFlow** | SQL data-quality checks, reporting, and operational dashboards using fictional records | [Code and case study](https://github.com/Esoham/verityflow-sql) |
-| **FluxPilot** | Python automation, configurable validation rules, exception reporting, and unit tests | [Code and tests](https://github.com/Esoham/fluxpilot-automation) |
+| **1. CommerceQA / FarmFresh — QA automation & defect investigation** | Playwright / Selenium browser checks, pytest API and regression, **three documented repaired bugs**, successful GitHub Actions run and risk-based test artifacts | [Bug reports](https://esoham.github.io/projects/qa-defects.html) · [CI evidence](https://esoham.github.io/projects/qa-verification.html) · [Code](https://github.com/Esoham/QA-Automation-Project) |
+| **2. AI-output QA — deterministic evaluation** | Curated golden cases, grounding and refusal checks, a deliberately adversarial prompt, failing negative control tests and explicit limitations | [Evaluation walkthrough](https://esoham.github.io/projects/ai-qa-evaluation.html) · [Source/fixtures](https://github.com/Esoham/QA-Automation-Project/tree/master/evals) |
+| **3. Meridian ERP — manufacturing systems & process controls** | Local FastAPI/SQLite prototype spanning purchasing, stock movements, BOM revisions, work orders, quality blocking rules and audit history | [ERP case study](https://esoham.github.io/projects/meridian-erp.html) · [Implementation/tests](https://github.com/Esoham/Meridian-ERP) |
+
+**CI at a glance:** [![CommerceQA CI](https://github.com/Esoham/QA-Automation-Project/actions/workflows/commerceqa-ci.yml/badge.svg?branch=master)](https://github.com/Esoham/QA-Automation-Project/actions/workflows/commerceqa-ci.yml)
+
+**Start by role:** [Software QA portfolio](https://esoham.github.io/qa.html) · [Business systems / ERP](https://esoham.github.io/projects/meridian-erp.html) · [Printable resume](https://esoham.github.io/resume.html).
+
+**Professional background:** Current Infor ERP job-order/material validation, inventory reconciliation and cross-team issue resolution at Low Temp Industries; previous software QA testing at Pitney Bowes. Software testing training and internship practice in 2021. The independent prototypes above are not employer projects or production client systems.
+
+## Supporting projects (explore after the three above)
+
+- [Hacker News Sorting Validator](https://github.com/Esoham/qa_wolf_take_home) — Playwright pagination, exact-100 validation, duplicate detection and mocked browser regression cases; optional live-site run.
+- [ChangeGuard MFG](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-) — engineering-change evidence reconciliation with a human decision gate.
+- [Vanessa Voice AI](https://github.com/Esoham/vanessa-voice-ai) — React/Node.js voice AI integration prototype.
+- [SentinelWatch](https://github.com/Esoham/SentinelWatch-SOC-Lab) — defensive Python SOC lab with synthetic authentication events.
+- [MerchantFlow](https://github.com/Esoham/merchantflow) — fulfillment-triage prototype, PRD, roadmap and QA artifacts.
+- [ApartmentFinder](https://github.com/Esoham/ApartmentFinder) — renter affordability prototype and transparent listing-source limitations.
+- [VerityFlow](https://github.com/Esoham/verityflow-sql) — SQL data quality and reporting.
+- [FluxPilot](https://github.com/Esoham/fluxpilot-automation) — Python validation and exception monitoring.
 
 ### Looking for evidence of applied AI?
 
@@ -57,4 +57,4 @@ I build practical technology that helps people **work through exceptions, test s
 
 **Project transparency:** Unless otherwise specified, these are **independent portfolio prototypes or labs**, not production customer deployments. Data is fictional/synthetic when indicated; tests, demos, and known limitations are described in each repository.
 
-**Best next click:** For QA roles, start with [CommerceQA / FarmFresh](https://github.com/Esoham/QA-Automation-Project). For ERP and operations roles, see [Meridian ERP](https://github.com/Esoham/Meridian-ERP). For AI roles, start with [ChangeGuard MFG](https://github.com/Esoham/ChangeGuard_MFG_SUBMIT_READY_FLAT-).
+**Best next click:** [QA defects & test evidence](https://esoham.github.io/projects/qa-defects.html) for QA roles, [Meridian ERP case study](https://esoham.github.io/projects/meridian-erp.html) for systems roles, and [AI evaluation walkthrough](https://esoham.github.io/projects/ai-qa-evaluation.html) for AI-QA work.
